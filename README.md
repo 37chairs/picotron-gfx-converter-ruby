@@ -2,6 +2,8 @@
 
 This script resizes and crops an image to the desired size, then uses the Stenberg effect to convert it to a color palette compatible with Picotron. The Stenberg effect is a dithering algorithm that helps to spread out color differences in a way that is more visually appealing than a simple color reduction.
 
+![Converted Image](https://raw.githubusercontent.com/37chairs/picotron-gfx-converter-ruby/master/output/background%205_stenberg_480x270.png)
+
 ## Installing
 
 The only dependencies are Ruby and chunky_png. 
